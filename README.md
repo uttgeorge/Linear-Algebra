@@ -8,3 +8,6 @@ Creadit to:
 [MIT 18.06 Linear Algebra](http://ocw.mit.edu/18-06S05)
 
 [中文 Linear Algebra （线性代数） 笔记](https://github.com/guokaide/linear-algebra)
+
+
+[学渣的笔记流—MIT各种数学](https://zhuanlan.zhihu.com/c_1029672383375949824)
